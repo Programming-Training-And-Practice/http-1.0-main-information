@@ -1,4 +1,4 @@
-# HTTP/1.0 Main Information.
+# HTTP/1.0.
 
 
 
